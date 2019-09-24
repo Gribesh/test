@@ -1,0 +1,26 @@
+[{    
+   "id":1,    
+   "name":"Employee A",    
+   "gender":"Male",    
+   "salary":10000    
+ },{    
+   "id":2,    
+   "name":"Employee A",    
+   "gender":"Female",    
+   "salary":20000    
+ },{    
+   "id":3,    
+   "name":"Employee C",    
+   "gender":"Male",    
+   "salary":30000    
+ },{    
+   "id":4,    
+   "name":"Employee D",    
+   "gender":"Female",    
+   "salary":40000    
+ },{    
+   "id":5,    
+   "name":"Employee E",    
+   "gender":"Male",    
+   "salary":50000    
+ }]   
